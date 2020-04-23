@@ -1,0 +1,2 @@
+BEAST = 'Beast'
+DRAGON = 'Dragon'
